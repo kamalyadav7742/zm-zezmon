@@ -1,0 +1,53 @@
+*{
+	margin: 0px;
+}
+.container{
+	width: 100%;
+	border: 2px solid red;
+	height: 950px;
+}
+.header{
+	height: 100px;
+	background-color: black;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.logo{
+	width: 30%;
+	height: 80px;
+	border: 1px solid blue;
+	float: left;
+}
+.menu{
+	width: 60%;
+	height:80px ;
+	border: 1px solid blue;
+	float: right;
+
+}
+
+.menu a{color: white;
+	text-decoration: none;
+	margin: 10px;
+
+}
+.main{
+	height: 400px;
+}
+
+.footer{
+	height: 150px;
+	background-color: black;
+	color: white;
+	font-size: 22PX;
+	text-align: left;
+}
+img{
+	width: 100%;
+	height: 300px;
+}
+p{
+	font-family: inherit;
+	font-size: 30px;
+	color: red;

@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+}
+
+.container{
+  width: 100%;
+  height: 1000px;
+  border: 1px solid red;
+}
+
+/*type of combinators*/
+
+/*div p {
+  background-color: yellow;
+}*/
+
+
+/*second combinator*/
+/*div > p {
+  background-color: yellow;
+}
+*/
+/*second combinator end*/
+
+
+/*third combinator*/
+/*
+div + p{
+  background-color: skyblue;
+}*/
+
+/*third end*/
+
+
+/*fourth start*/
+
+/*div ~ p {
+  background-color: yellow;*/
+
+  /*fourth end*/
+
+
+
+  
+
+  /*type of Pseudo Classes*/
+
+
+
+/* Pseudo classes1 */
+
+  /* unvisited link */
+/*a:link {
+  color: red;
+}*/
+
+/* visited link */
+/*a:visited {
+  color: green;
+}*/
+
+/* mouse over link */
+/*a:hover {
+  color: hotpink;
+}*/
+
+/* selected link */
+/*a:active {
+color: blue;
+}*/
+
+/*Pseudo clases 1end*/
+
+
+/*Pseudo classes2 start*/
+
+<div> Hover over this div element to show the
+  <p>Tada! Here I am!</p>
+</div>

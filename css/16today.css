@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+}
+
+
+
+
+.container{
+	width: 100%;
+	height: 5000px;
+	border: 2px solid red;
+
+}
+.header{
+	width: 800px;
+	height:200px;
+	margin-left: 90px;
+	background-color: #ff33ff;
+	font-size: 20px;
+	font-family: initial;
+	border: 1px solid green;
+	column-count: 5;
+	column-gap: 10px;
+	column-rule-style: double ;
+	column-rule-color:red ;
+	column-rule-width:10px ;
+
+}
+
+.header h2{
+	text-align: center;
+	column-span: all;
+}8h[]
+.logo{
+	width:15% ;
+	height: 50px;
+	/*border: 2px solid red;*/
+	float: left;
+}
